@@ -14,7 +14,7 @@ objects:
   metadata:
     name: apicast-config
   stringData:
-    password: https://${ACCESS_TOKEN}@${TENANT}-admin.3scale.net/
+    password: https://${ACCESS_TOKEN}@${TENANT}-admin.3scale1.app.rhdp.ocp.cloud.lab.eng.bos.redhat.com/
   type: Opaque
 - apiVersion: v1
   kind: DeploymentConfig
